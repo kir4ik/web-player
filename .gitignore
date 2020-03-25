@@ -1,0 +1,18 @@
+.vscode
+
+.cache/
+coverage/
+dist/
+node_modules/
+*.log
+*.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.ini
+ehthumbs.db
+Thumbs.db

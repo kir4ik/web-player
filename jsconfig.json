@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "allowSyntheticDefaultImports": false,
+    "baseUrl": "./",
+    "paths": {
+      "src/*": ["./src/*"],
+      "assets/*": ["/assets/*"],
+      "components/*": ["/components/*"],
+      "context/*": ["/context/*"],
+      "hooks/*": ["/hooks/*"],
+      "consts/*": ["/consts/*"],
+      "helpers/*": ["/helpers/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
